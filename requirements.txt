@@ -1,0 +1,17 @@
+numpy
+scipy
+matplotlib
+pandas
+opencv-python
+pillow
+torch
+torchvision
+torch-geometric
+networkx
+pvbm
+scikit-learn
+scikit-image
+fpsample
+tqdm
+seaborn
+mpl-tools
